@@ -24,3 +24,13 @@ WICHTIGE GRENZEN
 - Kalender-Monatsansicht zeigt maximal vier Termine pro Tag, max. 250 je Kalender/Monat.
 - Keine Hintergrundsynchronisierung bei geschlossenem Browser.
 - Der Profilwechsel ist keine Kindersicherung; dafür braucht es später eine echte Benutzerverwaltung.
+
+
+GOOGLE-VERBINDUNG (GitHub Pages)
+1. In Google Cloud die Google Calendar API und Google Tasks API aktivieren.
+2. OAuth-Client vom Typ Webanwendung: Autorisierte JavaScript-Quelle https://sebastianhuxdorf-tech.github.io
+3. Auf der FamilyBoard-Seite die OAuth-Client-ID in das sichtbare Feld eintragen und auf „Google-Konto verbinden“ klicken.
+4. OAuth-Berechtigungen: https://www.googleapis.com/auth/calendar.readonly und https://www.googleapis.com/auth/tasks. Die zweite ist nötig, damit Aufgaben hinzugefügt, abgehakt und gelöscht werden können. Nur tasks.readonly reicht dafür nicht.
+5. Falls der Google OAuth-Zustimmungsbildschirm auf Test steht, Google-Konto als Testnutzer eintragen.
+6. Die App benötigt keinen OAuth-Client-Schlüssel im Browser. Niemals einen Client-Schlüssel in HTML oder GitHub hochladen.
+7. Die index.html muss direkt im Hauptverzeichnis des GitHub-Repositories liegen, nicht in einem Unterordner familyboard.
