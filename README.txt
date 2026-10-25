@@ -1,1 +1,1 @@
-Korrektur: Zu strenge Client-ID-Prüfung entfernt. Leerzeichen und Zeilenumbrüche beim Einfügen werden entfernt. Google-Login bleibt manuell. Fehler 401 kann weiterhin auftreten, falls Google die Client-ID ablehnt.
+Layout-Korrektur für Android 8.1 / Chrome 101: dvh wird durch kompatible viewport-Höhenberechnung ersetzt. Google-Client-ID ohne http:// eingeben. Auf GitHub index.html ersetzen. Bei schwarzem Balken durch Chrome-Navigationsleiste Vollbildbutton testen.
