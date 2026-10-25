@@ -34,3 +34,5 @@ GOOGLE-VERBINDUNG (GitHub Pages)
 5. Falls der Google OAuth-Zustimmungsbildschirm auf Test steht, Google-Konto als Testnutzer eintragen.
 6. Die App benötigt keinen OAuth-Client-Schlüssel im Browser. Niemals einen Client-Schlüssel in HTML oder GitHub hochladen.
 7. Die index.html muss direkt im Hauptverzeichnis des GitHub-Repositories liegen, nicht in einem Unterordner familyboard.
+
+Wetter: Nennhausen, Open-Meteo (ohne API-Schluessel), aktuelle Werte und drei Folgetage. Internetverbindung erforderlich.
