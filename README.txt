@@ -13,3 +13,5 @@ Firebase-Anmeldung benoetigt E-Mail-Bestaetigung und passende Firestore-Regeln.
 Hinweis: Das ist eine Web-Version, noch keine Android-APK.
 
 FIX: Fehlende Navigationsbuttons fuer Sebastian, Nicole und Einkaufslisten ergaenzt.
+
+Update: Eingabe und Mikrofon oberhalb der Einkaufsliste, Artikelliste separat scrollbar, Artikel groesser und fett.
