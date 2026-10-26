@@ -1,1 +1,1 @@
-FamilyBoard 2.0 - kompakte Handy-Einkaufslistenansicht. index.html in GitHub Pages ersetzen. Die installierte Android-App lädt dieselbe Website und benötigt keine neue APK. Google OAuth in WebView bleibt eingeschränkt.
+FamilyBoard: kompakte Smartphone-Ansicht fuer Familie, Sebastian, Nicole, Tyler sowie Einkaufslisten. Tablet-Layout unveraendert. GitHub: index.html ersetzen, anschliessend in der Android-App Cache leeren, falls alte Version angezeigt wird. Google-Anmeldung in der Android-App wird dadurch NICHT repariert.
