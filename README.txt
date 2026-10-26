@@ -11,3 +11,5 @@ Einkaufslisten: Nennhausen und Stendal.
 Firebase-Anmeldung benoetigt E-Mail-Bestaetigung und passende Firestore-Regeln.
 
 Hinweis: Das ist eine Web-Version, noch keine Android-APK.
+
+FIX: Fehlende Navigationsbuttons fuer Sebastian, Nicole und Einkaufslisten ergaenzt.
