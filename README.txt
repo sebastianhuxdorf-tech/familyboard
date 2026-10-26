@@ -1,17 +1,1 @@
-FamilyBoard 2.0 – GitHub Upload
-
-1. ZIP auf dem PC entpacken.
-2. Im GitHub-Repository familyboard im Hauptverzeichnis auf Add file / Upload files klicken.
-3. index.html und manifest.json aus dem entpackten Ordner hochladen.
-4. Die vorhandenen Dateien gleichen Namens ersetzen und Commit changes bestaetigen.
-5. Nach erfolgreicher Pages-Bereitstellung die URL https://sebastianhuxdorf-tech.github.io/familyboard/ aufrufen.
-
-Erwartete Reiter: Familie, Sebastian, Nicole, Tyler, Einkaufslisten.
-Einkaufslisten: Nennhausen und Stendal.
-Firebase-Anmeldung benoetigt E-Mail-Bestaetigung und passende Firestore-Regeln.
-
-Hinweis: Das ist eine Web-Version, noch keine Android-APK.
-
-FIX: Fehlende Navigationsbuttons fuer Sebastian, Nicole und Einkaufslisten ergaenzt.
-
-Update: Eingabe und Mikrofon oberhalb der Einkaufsliste, Artikelliste separat scrollbar, Artikel groesser und fett.
+FamilyBoard 2.0: Stimmenauswahl im Einstellungsbereich der Einkaufsliste. Google Tasks und lokale Aufgaben: offene oben, erledigte unten; nach 24 Stunden beim nächsten aktiven Abgleich löschen. Achtung: Das Löschen abgeschlossener Google Tasks ist dauerhaft und betrifft auch Google Tasks selbst. Die App muss für die Bereinigung geöffnet und mit Google verbunden sein. ZIP entpacken, index.html und manifest.json in GitHub Pages root hochladen.
