@@ -1,1 +1,1 @@
-Layout-Korrektur für Android 8.1 / Chrome 101: dvh wird durch kompatible viewport-Höhenberechnung ersetzt. Google-Client-ID ohne http:// eingeben. Auf GitHub index.html ersetzen. Bei schwarzem Balken durch Chrome-Navigationsleiste Vollbildbutton testen.
+FamilyBoard: Schriftgroessen im Querformat fuer Termine (15px), Aufgaben (17px), Wetter und Ueberschriften deutlich erhoeht. Kalender/Aufgaben bei Bedarf intern scrollbar. index.html bei GitHub ersetzen und auf Tablet Seite neu laden.
