@@ -1,1 +1,1 @@
-Google-Kontentrennung: Sebastian und Nicole werden anhand ihrer Google-E-Mail-Adresse beim OAuth-Login geprüft. Nicht die native Anmeldung; Tokens bleiben nur während der Sitzung. ZIP entpacken und index.html im GitHub-Repository ersetzen. Google OAuth Consent Screen benötigt den zusätzlichen Scope userinfo.email und ggf. erneute Zustimmung.
+Diese index.html ersetzt die Datei im GitHub Pages Repository. Einkaufslisten werden im Browser und in der App automatisch gruppiert. NativeGoogle-Schnittstelle wird nur in der neuen Android-App verwendet.
